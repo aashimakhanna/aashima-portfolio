@@ -1,0 +1,38 @@
+---
+title: "Leadership & Skills"
+---
+
+## [AWS Cloud Club at UCLA](https://awsclubucla.org/team)
+
+**Internal Vice President | Jan 2026 – Present**
+
+As Internal Vice President of AWS Cloud Club at UCLA, I focus on building a vibrant technology community that connects students with emerging research, industry developments, and hands-on learning opportunities. Through collaborations with AWS, student organizations, and industry professionals, I work to bridge the gap between academic knowledge and real-world applications of cloud computing and AI.
+
+I have helped expand the club's reach through strategic partnerships, technical workshops, and flagship events, contributing to a **55% increase in event attendance**. Beyond community building, I have also contributed to technical initiatives, including designing the frontend and supporting cloud deployment of an AI-powered study planner developed during a hackathon.
+
+My goal is to make advanced technologies more accessible to students while creating opportunities for them to explore research, develop practical skills, and connect with exciting career paths in the technology industry.
+
+
+## [Data Science Union at UCLA](https://datascienceunion.com/team)
+
+**Data Science Intern → Data Scientist → Client Project Lead | Apr 2024 – Present**
+
+My journey at Data Science Union reflects my progression from developing technical solutions to leading multidisciplinary, client-facing projects.
+
+I began as a **Data Science Intern**, working on a Starbucks expansion prediction project that used demographic, geographic, and competitor data to identify promising store locations through machine learning.
+
+As a **Data Scientist**, I worked on marketing analytics for a furniture manufacturing company and explored reinforcement learning for portfolio optimization, implementing Q-Learning, Deep Q-Networks, and Proximal Policy Optimization to evaluate investment strategies.
+
+I later became a **Client Project Lead**, overseeing projects for the furniture company and a disability-focused platform. I coordinated teams, managed client communication, and translated business challenges into analytical strategies. For the furniture company, our recommendations and A/B testing contributed to a 10% increase in ROI.
+
+This progression strengthened my ability to combine technical problem-solving with product thinking, consulting, and team leadership.
+
+## Technical skills
+
+**Languages:** Python, R, SQL, JavaScript, HTML/CSS
+
+**Libraries:** Pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch, caret, glmnet
+
+**Methods:** Machine learning, A/B testing, hypothesis testing, feature engineering, cross-validation, hyperparameter tuning, ETL
+
+**Tools:** Git, Jupyter, AWS, Tableau, Power BI, Excel, Figma, LaTeX

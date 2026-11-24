@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Aashima Khanna"
+  site-url: "https://YOUR_USERNAME.github.io/YOUR_REPO/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: leadership.qmd
+        text: Leadership
+    right:
+      - href: assets/resume.pdf
+        text: Resume PDF
+      - icon: linkedin
+        href: https://www.linkedin.com/in/aashima-00-khanna/
+      - icon: envelope
+        href: mailto:aashimak2005@gmail.com
+  page-footer:
+    left: "© 2026 Aashima Khanna"
+    right: "Built with Quarto · R · VS Code"
+  open-graph: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+execute:
+  freeze: auto

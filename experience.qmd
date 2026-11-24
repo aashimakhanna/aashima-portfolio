@@ -1,0 +1,39 @@
+---
+title: "Experiences: Research & Industry"
+---
+
+## Research
+
+### UCLA Luskin School of Public Affairs
+**Student Research Assistant · Oct 2026 – Present**
+
+As a Research Assistant at UCLA's Luskin School of Public Affairs, I work with Professor Zachary Steinert-Threlkeld to investigate the drivers of protests and collective action worldwide. My research focuses on harmonizing large-scale datasets from social media and news sources, using natural language processing (NLP) to standardize unstructured protest claims and categorize them into meaningful themes. I apply statistical measures such as NPMI and cohesion to evaluate phrase relevance, investigate missing data patterns, and validate geographic classifications. The broader goal is to develop a consistent analytical framework for understanding how the causes of collective action vary across regions and over time.
+
+### UCLA Anderson School of Management
+**Student Research Assistant · Sep 2026 - Oct 2026**
+
+As a Research Assistant at UCLA Anderson School of Management, I investigated paid parental leave policies across 160 U.S. companies using SEC filings, employee benefits documents, and public disclosures. I compiled and verified information on leave duration, employee eligibility, and policy effective dates, contributing to a structured, auditable dataset for academic research.
+
+
+### UCLA Federal Reserve Challenge Seminar
+
+**Student Researcher | Apr 2026 - June 2026**
+
+As part of a selective 20-student Federal Reserve Challenge seminar at UCLA taught by Professor Christopher Surro, I explored the intersection of macroeconomic theory, monetary policy, and financial markets. Through research and economic analysis, I studied key indicators such as inflation, employment, economic growth, and interest rates, developing a deeper understanding of their relationships and implications for monetary policy.
+
+## Industry
+
+### Termgrid
+**Data Science Rotational Intern · Jun 2026 – Sep 2026**
+
+During my internship at Termgrid, I had the opportunity to work at the intersection of data science, product development, and finance. Entering the commercial lending space came with a steep learning curve, as I had to understand how financial institutions evaluate deals, manage relationships, and make lending decisions. Working closely with GTM, Portfolio, and Relationship Management teams helped me translate these business complexities into technical requirements. I took ownership of developing a machine learning-based lender recommendation system, combining deal characteristics, historical relationships, and platform activity to rank over 950 lenders. Beyond building the model, I collaborated with software engineers to validate data pipelines and prioritize improvements, gaining a deeper appreciation for how data science becomes valuable when integrated into a product that solves real business problems.
+
+### Ernst & Young
+**Data Science Intern · Jul–Sep 2025**
+
+I explored the application of machine learning and statistical methods to problems in the insurance industry. My primary project focused on researching and developing a computer vision-based approach to vehicle damage assessment, where I experimented with YOLOv8 object detection models, image preprocessing techniques, and rule-based pricing mechanisms. I investigated challenges such as class imbalance, annotation quality, and model performance, developing a proof of concept with the potential to reduce claims processing time by 25%. I also worked on healthcare claims fraud detection, using SQL to identify anomalous patterns and evaluating model effectiveness through metrics such as precision, recall, and lift/gain. This experience strengthened my understanding of experimental model development, performance evaluation, and the challenges of translating research into practical applications.
+
+### Grant Thornton
+**Financial Transformation Consulting Intern · Jul–Aug 2024**
+
+During my internship at Grant Thornton, I gained experience in financial transformation consulting, working with enterprise clients to understand business challenges and develop strategic solutions. I contributed to cloud transformation proposals for over 10 clients and analyzed operational workflows to identify efficiency improvements that reduced labor costs by 30%. This experience strengthened my ability to translate complex business problems into actionable, technology-driven recommendations.

@@ -1,0 +1,29 @@
+---
+title: "About"
+title-block-banner: false
+---
+
+# About me
+
+I study **Statistics & Data Science (B.S.)** and **Economics (B.A.)** at the University of California, Los Angeles, with an expected graduation date of **June 2027**.
+
+I'm passionate about exploring the role of data across multidisciplinary fields, particularly at the intersection of finance and technology (fintech). Through my experiences in data science, research, and consulting, I've developed a strong interest in applying statistical modeling and machine learning to solve complex problems, inform strategic decisions, and build impactful, data-driven products.
+
+## Education
+
+**University of California, Los Angeles** · September 2023 – June 2027
+
+- B.S. Statistics and Data Science; B.A. Economics
+- Dean's Honor List: Winter 2024, Fall 2024, Winter 2025
+- Coursework: Linear Algebra, Design and Analysis of Experiments, Statistical Models and Data Mining, Computation and Optimization for Statistics, Monte Carlo Methods, Probability and Statistics, Monetary Policy, Econometrics
+
+## Technical toolkit
+
+| Area | Skills |
+|---|---|
+| Languages | Python, R, SQL, JavaScript, HTML/CSS |
+| Libraries | Pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch, caret, glmnet |
+| Methods | Machine Learning, A/B Testing, Hypothesis Testing, Feature Engineering, Cross-Validation, Hyperparameter Tuning, ETL |
+| Tools | Git, Jupyter Notebook, AWS, Tableau, Power BI, Excel, Figma, LaTeX |
+
+[Download my resume](assets/resume.pdf){.btn .btn-primary}

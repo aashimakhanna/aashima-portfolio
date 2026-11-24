@@ -1,0 +1,28 @@
+---
+title: "Selected Projects"
+---
+
+## Starbucks Expansion Prediction
+**Python · XGBoost · Linear Regression**
+
+Predicted high-potential store locations using demographic, geographic, and competitor data. Compared tree-based and regression models to identify socioeconomic factors associated with expansion.
+
+## Reinforcement Learning Portfolio Optimization
+**Python · PyTorch**
+
+Implemented Q-Learning, Deep Q-Networks, and Proximal Policy Optimization on historical market data. Evaluated strategies using risk-adjusted returns against traditional approaches.
+
+## Skin Cancer Classification
+**R · caret · randomForest · e1071**
+
+Preprocessed more than 50,000 observations with 8% missing data. Compared imputation approaches and trained KNN, logistic regression, and random forest models, evaluating ROC-AUC, accuracy, precision, and recall.
+
+## Retail Trade Employment and Wages: Pre- and Post-Pandemic
+
+**Economic Research · Labor Economics · Data Analysis**
+
+Co-authored a research paper investigating how the COVID-19 pandemic affected retail employment, wages, and population trends across U.S. states from 2018 to 2022. Using data from the BLS, FRED, and U.S. Census Bureau, we conducted a comparative analysis of Idaho, Mississippi, and Hawaii, identifying significant regional differences in labor market recovery. Our findings highlighted how rising wages do not necessarily correspond to employment growth, emphasizing the complexities of post-pandemic economic recovery.
+
+[Read Full Research Paper](assets/Retail_Trade_Employment_Research.pdf){.btn .btn-primary .btn-sm target="_blank"}
+
+

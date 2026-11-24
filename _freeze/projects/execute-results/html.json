@@ -1,0 +1,17 @@
+{
+  "hash": "c8bb7a776e1fd518334200929b5273c9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Selected Projects\"\n---\n\n## Starbucks Expansion Prediction\n**Python · XGBoost · Linear Regression**\n\nPredicted high-potential store locations using demographic, geographic, and competitor data. Compared XGBoost and regression models to identify socioeconomic factors associated with expansion.\n\n## Reinforcement Learning Portfolio Optimization\n**Python · PyTorch**\n\nImplemented Q-Learning, Deep Q-Networks, and Proximal Policy Optimization on historical market data. Evaluated strategies using risk-adjusted returns against traditional approaches.\n\n## Skin Cancer Classification\n**R · caret · randomForest · e1071**\n\nPreprocessed more than 50,000 observations with 8% missing data. Compared imputation approaches and trained KNN, logistic regression, and random forest models, evaluating ROC-AUC, accuracy, precision, and recall.\n\n::: {.callout-note}\nThese are project summaries from my resume. Code repositories, technical reports, and visualizations can be linked here as they become available.\n:::\n\n## R visualization example\n\nThe following reproducible R code produces a simple example chart using R's built-in `mtcars` dataset. It is **not** a chart from one of the projects above.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(mtcars$wt, mtcars$mpg,\n     xlab = \"Weight (1,000 lbs)\", ylab = \"Miles per gallon\",\n     pch = 19, col = \"#2a6b80\")\n```\n\n::: {.cell-output-display}\n![Example R visualization: fuel efficiency versus vehicle weight (mtcars).](projects_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n",
+    "supporting": [
+      "projects_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,66 @@
+---
+title: "Aashima Khanna"
+title-block-banner: false
+page-layout: full
+---
+
+::: {.hero}
+
+::: {.hero-content}
+
+::: {.hero-text}
+
+<span class="eyebrow">DATA SCIENCE · ECONOMICS · FINTECH · PRODUCT</span>
+
+# Hi, I'm Aashima Khanna!
+
+I'm a Statistics & Data Science and Economics double major currently in my fourth year at **University of California, Los Angeles (UCLA)**, interested in using data and technology to solve complex problems and build practical products for the finance industry!
+
+[Explore my work](experience.qmd){.btn .btn-primary} [View resume](assets/resume.pdf){.btn .btn-outline-secondary}
+
+:::
+
+::: {.hero-photo}
+
+![](assets/profile.png)
+
+:::
+
+:::
+
+:::
+
+::: {.content-wrap}
+## At a glance
+
+::: {.grid-cards}
+::: {.feature-card}
+### Machine learning & Product development
+Built a lender recommendation system at **Termgrid**, using deal characteristics, relationship history, and platform activity to rank 950+ lenders.
+
+[Experience →](experience.qmd)
+:::
+::: {.feature-card}
+### Applied research
+At **UCLA Luskin**, I analyze and standardize free-text variables from global protest datasets using NLP methods for Professor Steinert-Threlkeld.
+
+[Research →](experience.qmd)
+:::
+::: {.feature-card}
+### Quantitative projects
+Explore work in reinforcement learning, predictive modeling, and statistical classification in classes and student organizations.
+
+[Projects →](projects.qmd)
+:::
+:::
+
+## Education & Skills
+
+**University of California, Los Angeles (UCLA)** · B.S. Statistics & Data Science · B.A. Economics · Expected Graduation: June 2027
+
+**Technical toolkit:** Python, R, SQL, JavaScript, HTML/CSS, PyTorch, Tableau, AWS, Power BI, Git, Jupyter Notebook, LaTeX
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/aashima-00-khanna/) · [Email](mailto:aashimak2005@gmail.com) · [Download my resume](assets/resume.pdf)
+:::
